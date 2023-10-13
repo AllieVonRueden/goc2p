@@ -1,4 +1,4 @@
-bin**/*
+bin#*/*
 pkg**/*
 logs**/*
 pprof**/*
@@ -8,3 +8,4 @@ _obj
 *.di
 *.callgrind
 .DS_Store
+ 
